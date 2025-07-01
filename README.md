@@ -20,3 +20,12 @@ MySQL database
 🗄️ Data persistence using Spring Data JPA and MySQL
 
 🎨 Simple CSS styling for UI
+
+### Register Page
+![Register Page](screenshots/RegisterPage.png)
+
+
+### Login Page
+![Login Page](screenshots/LoginPage.png)
+
+
